@@ -8,7 +8,7 @@ public class CarAndCostomer {
 
      */
 
-    //degisiklikler yapildimi?
+    //bu kez oldu mu?
 
 
 
