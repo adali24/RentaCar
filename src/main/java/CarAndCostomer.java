@@ -7,5 +7,7 @@ public class CarAndCostomer {
     Daily Fare (vehicle related information).(Gunluk ucret)
 
      */
-tuba deneme n1
+
+    //degisiklikler
+
 }
