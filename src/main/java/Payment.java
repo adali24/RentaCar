@@ -7,3 +7,10 @@ public class Payment {
 
      */
 }
+
+
+
+
+
+
+yeni pull icin yazi yazdim
