@@ -23,13 +23,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="2OV615BCaEyk3bKJbjo2NCRQ5u5" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
