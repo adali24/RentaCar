@@ -17,3 +17,4 @@ public class Payment {
 //umarim guzel katkilar saglayabilirim
 //sanirim bu kez oluyor
 //evet oldu
+haydi bakalim oldu
