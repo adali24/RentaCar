@@ -15,3 +15,7 @@ public class Payment {
 
 
 //yeni pull icin yazi yazdim
+//umarim guzel katkilar saglayabilirim
+//sanirim bu kez oluyor
+//evet oldu
+//haydi bakalim oldu
