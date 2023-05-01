@@ -9,7 +9,8 @@ public class Payment {
 }
 
 
-
+//durdygulun eklemeleri
+//bir kac kod ekledi
 
 
 
