@@ -14,23 +14,3 @@ public class Payment {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
