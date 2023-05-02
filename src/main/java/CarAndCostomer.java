@@ -9,13 +9,6 @@ public class CarAndCostomer {
      */
 
 
-    //degisiklikler yapildimi?
-    
-    //yeni kodlar eklendi
-    //omer yeni kodlari ekledi.
-    //fdjfalkjf
 
-
-//yeni baharlar gelecek
 
 }
