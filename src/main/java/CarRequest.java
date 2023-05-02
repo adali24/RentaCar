@@ -13,6 +13,4 @@ public class CarRequest {
     the delivery time  (Teslim Saati)
      */
 
-    // deneme
-    //Durdygulun denemesi
 }
