@@ -6,11 +6,12 @@ public class Payment {
 
 
      */
-    //03.05.2023 - 01:52 git deneme 1
-
-
-
 
 }
+
+
+
+
+
 
 
