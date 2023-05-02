@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="7676dbc5-205a-4f96-a67c-93a316bae7cc" name="Changes" comment="" />
-=======
-    <list default="true" id="7676dbc5-205a-4f96-a67c-93a316bae7cc" name="Changes" comment="">
 
-    </list>
->>>>>>> 9e5db2ac33ad51b752bbbb6feb58a01ed360a95d
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +23,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-
   <component name="ProjectId" id="2OV615BCaEyk3bKJbjo2NCRQ5u5" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
