@@ -1,3 +1,5 @@
+package main.java;
+
 public class CarAndCostomer {
     /*
     Make,(Marka)
@@ -8,7 +10,5 @@ public class CarAndCostomer {
 
      */
 
-
-
-
-
+    // merhaba, bugun yeni kodlar uzerinde calisiyorum.
+}
