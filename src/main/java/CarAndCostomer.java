@@ -12,9 +12,9 @@ public class CarAndCostomer {
 
 
 
-    //github da branch master'da iken yapilan degisikliklerin de master dan push edilmesi ile degisiklikler aninda gorunuyor.
+
+//github da branch master'da iken yapilan degisikliklerin de master dan push edilmesi ile degisiklikler aninda gorunuyor.
 // simdi ise hem github'da hem lokalde branch'i kendi branch'ima aldim ve lokalde eklemeler yapmayi deneyecegim. .
 
     // ayni islemi tekrarlamayi deneyecegim.
 }
-
