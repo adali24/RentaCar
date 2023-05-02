@@ -10,5 +10,4 @@ public class CarAndCostomer {
 
      */
 
-    // merhaba, bugun yeni kodlar uzerinde calisiyorum.
 }
