@@ -17,5 +17,5 @@ public class CarAndCostomer {
 // simdi ise hem github'da hem lokalde branch'i kendi branch'ima aldim ve lokalde eklemeler yapmayi deneyecegim. .
 
     // ayni islemi tekrarlamayi deneyecegim.
-    // tekrar deneyecegim.
+    // tekrar deneyecegim..
 }
