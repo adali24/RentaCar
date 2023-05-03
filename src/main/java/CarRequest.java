@@ -14,7 +14,7 @@ public class CarRequest {
     the delivery day, (Teslim Gunu)
     the delivery time  (Teslim Saati)
      */
-
+//biraz da buraya yazalim.
 }
 
 

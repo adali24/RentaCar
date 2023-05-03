@@ -18,4 +18,5 @@ public class CarAndCostomer {
 
     // ayni islemi tekrarlamayi deneyecegim.
     // tekrar deneyecegim..
+    // tekrar tekrar yazmayi deniyorum.
 }
