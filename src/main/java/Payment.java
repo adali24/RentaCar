@@ -1,3 +1,5 @@
+package main.java;
+
 public class Payment {
     /*
        -	OdemeBilgieri() metodu ile odeme bilgilerini alacaginiz bir method create ediniz.
@@ -7,10 +9,18 @@ public class Payment {
 
      */
 
-   //dmfmg;mlkdsh[p,g;fdmb;fd,]
+
+
+
 
 }
 
 
+
 // deneme
 //deneme2
+
+
+
+
+
