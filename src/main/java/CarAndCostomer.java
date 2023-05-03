@@ -8,8 +8,9 @@ public class CarAndCostomer {
 
      */
 
-
-
+//omer yeni kodlar ekledi
+    //omer yeni kodlar eklemeye devam ediyor
+        //halen devam ediyor
 
 
 }
