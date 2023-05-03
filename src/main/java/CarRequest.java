@@ -1,3 +1,5 @@
+package main.java;
+
 public class CarRequest {
     /*
 
@@ -16,11 +18,29 @@ public class CarRequest {
 
 
 
+
     //omer yeni kodlar ekledi
         //omer yeni kodlar eklemeye devam ediyor
 
+//deneme
+
+
 }
 
+
+
+
+
+
+
+
+
+
+
+
+    // inteliji sifirdan kurduk
+
+}
 
 
 
