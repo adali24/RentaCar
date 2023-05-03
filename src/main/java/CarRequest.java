@@ -15,8 +15,20 @@ public class CarRequest {
     the delivery time  (Teslim Saati)
      */
 
-}
 
+
+
+
+
+
+
+
+
+
+
+    // inteliji sifirdan kurduk
+
+}
 
 
 
