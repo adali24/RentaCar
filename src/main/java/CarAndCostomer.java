@@ -25,3 +25,7 @@ public class CarAndCostomer {
     // tekrar tekrar yazmayi deniyorum.
 }
 
+
+
+//confliks yapacagiz
+
