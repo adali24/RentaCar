@@ -8,6 +8,6 @@ public class Payment {
 
 
      */
-//deneme calismasi
 
+//hamit git hub icin deneme satiri
 }
