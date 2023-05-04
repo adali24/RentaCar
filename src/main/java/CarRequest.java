@@ -14,14 +14,26 @@ public class CarRequest {
     the delivery day, (Teslim Gunu)
     the delivery time  (Teslim Saati)
      */
-<<<<<<< HEAD
+
 //deneme
    
-=======
-//biraz da buraya yazalim.
->>>>>>> a1189e980a4686bdc0d74376475c8e0d5e271b87
+
 }
 
+
+
+
+
+
+
+
+
+
+
+
+    // inteliji sifirdan kurduk
+
+}
 
 
 
