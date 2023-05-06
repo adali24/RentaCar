@@ -1,4 +1,7 @@
+<<<<<<< HEAD:src/main/java/rentacar/Payment.java
 package rentacar;
+=======
+>>>>>>> 6e017121ff376d68e86b33f8e743a953879dcd4c:src/main/java/Payment.java
 
 public class Payment {
     /*
@@ -8,11 +11,15 @@ public class Payment {
 
 
      */
+<<<<<<< HEAD:src/main/java/rentacar/Payment.java
 
 
 
 
+=======
+>>>>>>> 6e017121ff376d68e86b33f8e743a953879dcd4c:src/main/java/Payment.java
 
+//hamit git hub icin deneme satiri
 }
 
 
