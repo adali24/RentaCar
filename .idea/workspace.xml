@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
 
     <list default="true" id="7676dbc5-205a-4f96-a67c-93a316bae7cc" name="Changes" comment="">
 
@@ -14,6 +15,9 @@
 
 
     </list>
+=======
+    <list default="true" id="07623a94-9a57-4283-b40b-e8ca7b22d162" name="Changes" comment="" />
+>>>>>>> Zulfiye
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
