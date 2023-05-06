@@ -8,6 +8,19 @@ public class Payment {
 
 
      */
-//deneme calismasi
+
+
+
+
 
 }
+
+
+
+// deneme
+//deneme2
+
+
+
+
+
