@@ -1,5 +1,3 @@
-package rentacar;
-
 public class CarRequest {
     /*
 
@@ -41,6 +39,8 @@ public class CarRequest {
     // inteliji sifirdan kurduk
 
 //hala deniyorum.
+
+//surekli duzeltme yapiyorum.
 
 
 

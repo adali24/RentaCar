@@ -1,5 +1,3 @@
-package rentacar;
-
 public class CarAndCostomer {
     /*
     Make,(Marka)
