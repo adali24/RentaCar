@@ -22,6 +22,6 @@ public class Payment {
 //deneme2
 
 
-
+//hatalari sildim ve kaydettim.
 
 
