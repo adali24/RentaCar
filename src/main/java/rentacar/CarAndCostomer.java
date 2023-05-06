@@ -28,3 +28,7 @@ public class CarAndCostomer {
 
 
 //confliks yapacagiz
+
+
+// tum class'lari rentacar package icine aldim. boylece "package rentacar; " duzelmis oldu.
+// calismaya baslamadan once git pull yapmanizi tavsiye ederim.
