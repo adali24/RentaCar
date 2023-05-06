@@ -11,6 +11,9 @@ public class CarAndCostomer {
      */
 
 
+
+
+
 //omer yeni kodlar ekledi
     //omer yeni kodlar eklemeye devam ediyor
 
@@ -23,6 +26,7 @@ public class CarAndCostomer {
     // ayni islemi tekrarlamayi deneyecegim.
     // tekrar deneyecegim..
     // tekrar tekrar yazmayi deniyorum.
+
 }
 
 
